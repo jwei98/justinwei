@@ -9,8 +9,3 @@ function sayHello() {
 		content.innerHTML = "Welcome, " + name + "!";
 	}
 }
-
-function changeContent() {
-	var content = document.getElementById(elementID);
-	content.innerHTML = text;
-}

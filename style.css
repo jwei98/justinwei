@@ -13,7 +13,7 @@ h2 {
 }
 
 p, ul,ol{
-	font-size: 15px;
+	font-size: 18px;
 	font-family: monospace;
 }
 
@@ -28,7 +28,12 @@ p#Hello {
 	text-align: center;
 	background-color: PowderBlue;
 }
-
+#Activities {
+	background-color: LemonChiffon;
+}
+#Projects{
+	background-color: LightPink;
+}
 /*
 html {
 	background-color: black;
