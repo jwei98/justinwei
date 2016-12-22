@@ -17,11 +17,10 @@ p, ul,ol{
 	font-family: monospace;
 }
 
-p#Hello {
+.type-wrap{
 	text-align: center;
-	font-weight: bold;
-	font-size: 20px;
-	color: MediumPurple;
+	font-size:18px;
+	color: White;
 }
 
 #General {
